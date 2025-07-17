@@ -1,0 +1,63 @@
+Infosys 1hr:30 min Interview
+-----------------------
+
+1. Introduction
+2. What backend services did you work on?
+3. Which Frontend technologies did you work?
+4. Hardcoding in Frontend and Backend ? why?
+5. Tables Structure in backend?
+6. So you design 12-15 screens, and then maybe you bring those screens maybe after 2 weeks or so. That is what clients approach you. So what do you think, what would you do?
+7. What suggestions would you give to a UX designer when working on a React app?
+8. how to handle ux?
+9. Low-Level Design(LLD)?
+10. UI architecture of react js application
+11. react.js architecture
+12. libraries in react.js
+13. ui components in react js
+14. hooks in react
+15. rendering
+16. jquery conv to js time
+17. js vs jquery which is faster?
+18. js vs jquery
+19. to access the camera html or javascript is needed?
+20. unit test cases
+21. aws cloud
+22. CI/CD cloud
+23. Java coding question:
+ Why there is no problem in handling private variables?
+24. private variables drawback
+25. Public method
+26. How to achieve encapsulation in above code?
+27. How we achieve security?
+28. setter method for bank balance
+29. purpose of encapsulation
+30. model class in setter getter
+31. model in java
+32. pojo
+33. how to implement encapsulation
+34. encapsulation?
+33. compare virtual dom vs real dom?
+34. whatsapp, instagram clicked photo 25mb uploading as status  
+35. vdom and real dom which needs more storage?
+36. how to add permissions push in ui level
+37. core level permissions in UI
+38. push , create resource nad create user  --> permissions
+39. permissions in hardcoding?
+40. database hardcoding?
+41. role management database tables
+42. ecommerce app redux 
+43. state management
+44. can we ajax syncronous?
+45. Ajax call?
+46. usestate in javascript, useState and useEffect similar js?
+47. scope of layers in the application
+48. z-index?
+
+49. Normalization:Is it better table structure in database?
+🔧 Suggested Normalized Structure:
+users
+id	firstname	lastname	age	mobile	is_active	is_prime
+
+addresses
+id	user_id	address1	address2	city	state	pincode	country
+
